@@ -4,6 +4,16 @@ You can use the [editor on GitHub](https://github.com/BNU-Comp/Derek-Portfolio/e
 
 Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
 
+# Derek Peacock's e-Portfolio
+## BSc Degree (Hons) in Computing
+This portfolio contains samples of my work as part of my undergraduate degree at BNU (Bucks New University)
+|-------+--------+--------------|
+| Level | Module | Main Content |
+|:-----:|--------|--------------|
+| 4 | CO452 Programming Concepts | Java, GitHub, Console Apps, OOPs, UML |
+| 4 | CO453 Applications Programming | C#, Visual Studio 2022, ASP.NET, Refactoring, UML |
+| 4 | CO456 Web Development | HTML5, CSS, JavaScript, Visual Studio Code |
+
 ### Markdown
 
 Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
