@@ -10,7 +10,7 @@ Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://j
 [CO452 Programming Concepts](https://github.com/BNU-Comp/Derek-Portfolio/blob/gh-pages/CO452.html)
 
 This portfolio contains samples of my work as part of my undergraduate degree at BNU (Bucks New University)
-|-------+--------+--------------|
+
 | Level | Module | Main Content |
 |:-----:|--------|--------------|
 | 4 | CO452 Programming Concepts | Java, GitHub, Console Apps, OOPs, UML |
