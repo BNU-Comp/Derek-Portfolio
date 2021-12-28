@@ -7,7 +7,7 @@ Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://j
 ### Derek Peacock's e-Portfolio
 #### BSc Degree (Hons) in Computing
 
-[CO452](https://github.com/BNU-Comp/Derek-Portfolio/blob/gh-pages/CO452.html)
+[CO452 Programming Concepts](https://github.com/BNU-Comp/Derek-Portfolio/blob/gh-pages/CO452.html)
 
 This portfolio contains samples of my work as part of my undergraduate degree at BNU (Bucks New University)
 |-------+--------+--------------|
