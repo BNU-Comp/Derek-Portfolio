@@ -4,8 +4,8 @@ You can use the [editor on GitHub](https://github.com/BNU-Comp/Derek-Portfolio/e
 
 Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
 
-# Derek Peacock's e-Portfolio
-## BSc Degree (Hons) in Computing
+### Derek Peacock's e-Portfolio
+#### BSc Degree (Hons) in Computing
 This portfolio contains samples of my work as part of my undergraduate degree at BNU (Bucks New University)
 |-------+--------+--------------|
 | Level | Module | Main Content |
